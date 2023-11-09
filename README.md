@@ -7,4 +7,6 @@ ce projet est un test du cours 2PR
 -configurer la license
 -configurer gitignore
 -nom, visibilité
-##
+## commit
+-un changment associé à un mesage avec une emprunte numérique
+-peut etre fait en local sans push vers le serveur
